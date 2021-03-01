@@ -1,0 +1,107 @@
+body {
+	background-color: rgb(230,230,230); 
+	color:rgb(100,100,100);
+	font-family: helvetica;
+	font-size: 16px;
+}
+h1{
+	font-size: 30px;
+	color: green;
+	text-align: center;
+}
+#name-red {
+	color:black;
+	font-family: arial, sans-serif;
+}
+h2{
+	color:rgba();
+	font-size: 20px;
+	line-height: 0.5;
+	text-align: center;
+	padding-bottom: 20px;
+
+}
+h3{
+	color:black;
+	font-size: 16px;
+	line-height: 0.5;
+	font-weight:bold;
+}
+h3{
+	padding-top: 10px;
+	padding-bottom: 0px;
+	height: 0.5px;
+}
+h4{
+	color:blue;
+	font-size: 16px;
+	line-height: 0.3;
+	font-weight: lighter;
+}
+
+
+.Mini-div {
+	width: 800px;
+	background-color: rgb(255,255,255);
+	margin: 10px auto;
+	margin-top: 20px;
+	box-shadow: 5px 7px 5px rgba(0,0,0,0.1);
+	border-radius: 4px;
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#centre-pic{
+	text-align: center;
+	list-style: none;
+}
+
+#margin{
+	padding-bottom: 20px;
+}
+
+a{
+	text-decoration: none;
+	color: Black;
+	transform: 2s ease;
+	transition: 0.3s ease;
+}
+a:hover{
+	color:White;
+	background-color: Black;
+}
+
+#LinkedIn {
+	text-decoration: none;
+	color: White;
+	font-weight: bold;
+	transform: 2s ease;
+	transition: 0.3s ease;
+	background-color: Blue;
+	padding: 15px;
+	border-radius: 5px;
+	box-shadow: 2px 3px 3px rgba(0,0,0,0.1)
+}
+#LinkedIn:hover{
+	color:White;
+	background-color: black;
+}
+
+#pic-circle {
+	border-radius: 50%
+}
+
+#login{
+	text-align: center;
+}
+
+.social{
+    padding: 20px;
+    font-size: 30px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+}
+
